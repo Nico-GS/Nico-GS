@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nicolas</h1>
 <h3 align="center">(Java / Kotlin / Spring Boot / React.JS)</h3>
-<h3 align="center">(Update 2026 : Go - C# - Gestion Kubernetes)</h3>
+<h3 align="center">(Update 2026 : Go - C# Kubernetes - Redis - Kafka)</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
